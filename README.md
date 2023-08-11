@@ -1,6 +1,4 @@
-## Pós-Graduação em Data Science: 
-
-### Data Science aplicado em finanças! 🤑
+### Data Science aplicado em finanças! 
 
 ### Notebooks 📓
 
@@ -24,9 +22,5 @@ Você pode acessar a aplicação criada em aula [aqui](https://share.streamlit.i
 
 ### Objetivo 🎯
 Construir um modelo de aprendizado de máquina para prever se um cliente é 'bom' ou 'mal' pagador, para saber se ele terá um cartão de crédito aprovado ou não. Após obter o melhor modelo, uma aplicação será criada no Streamlit! Bora criar uma aplicação?! 
-
-
-Vamos lá!!! 
-<p align="left"><img src='https://media.giphy.com/media/fNvXkjC50ywBW/giphy.gif'</p>
 
  
