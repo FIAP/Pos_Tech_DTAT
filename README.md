@@ -1,2 +1,18 @@
-# Pos_Tech_DTAT
-Repositório para todas as Fases contemplando os códigos utilizados nas disciplinas da Pós Tech em Data Analytics
+# Deep & Reinforcement Learning 🦾
+
+Olá cientista de dados! Esse módulo é todo dedicado ao aprendizado de Deep & Reinforcement Learning!
+
+![image](https://github.com/FIAP/Pos_Tech_DTAT/assets/46449538/3556a83f-1a5c-495f-ac03-3290be6daa12)
+
+## Aulas:
+
+- Aula 1: Perceptron de múltiplas camadas
+- Aula 2: Redes convolucionais
+- Aula 3: Transferência de aprendizagem
+- Aula 4: Redes recorrentes
+- Aula 5: Redes não supervisionadas
+- Aula 6: Gans
+
+Bons estudos galera! 🙂
+
+
