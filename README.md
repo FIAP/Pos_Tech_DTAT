@@ -1,4 +1,4 @@
-## Pós-Graduação em Data Science: 
+## Pós Tech Data Analytics: 
 ### Bigquery! 
 
 ### Notebooks e querys 📓
