@@ -1,0 +1,10 @@
+INSERT INTO tipos_produto (nome_tipo) VALUES ('Alimentos');
+INSERT INTO tipos_produto (nome_tipo) VALUES ('Bebidas');
+INSERT INTO tipos_produto (nome_tipo) VALUES ('Eletrônicos');
+INSERT INTO tipos_produto (nome_tipo) VALUES ('Livros');
+INSERT INTO tipos_produto (nome_tipo) VALUES ('Vestuário');
+INSERT INTO tipos_produto (nome_tipo) VALUES ('Higiene');
+INSERT INTO tipos_produto (nome_tipo) VALUES ('Brinquedos');
+INSERT INTO tipos_produto (nome_tipo) VALUES ('Móveis');
+INSERT INTO tipos_produto (nome_tipo) VALUES ('Ferramentas');
+INSERT INTO tipos_produto (nome_tipo) VALUES ('Esportes');
