@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  app1:
+    image: python:3.9-slim
+    volumes:
+      - ./app_1:/app
+    working_dir: /app  # Define /app como o diretório de trabalho
+    command: "python app_1.py"
+  app2:
+    image: python:3.9-slim
+    volumes:
+      - ./app_2:/app
+    working_dir: /app  # Define /app como o diretório de trabalho
+    command: "python app_2.py"
